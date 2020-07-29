@@ -3,7 +3,7 @@
 
 **Welcome SeavenD Page**
 
-Here are some ideas to get you started:
+Here are some techical about *motor* and *control*
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
