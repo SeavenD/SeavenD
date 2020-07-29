@@ -7,7 +7,7 @@ Here are some techical material about *motor control of IPM&ASM*.
 any question you can get me from:
 [SeavenD的Markdown库](https://github.com/SeavenD/books/README.md)
 
-[baidu](https://www.baidu.com)
+[books](https://github.com/SeavenD/books)
 
 [百度](https://www.baidu.com)
 
