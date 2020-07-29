@@ -3,7 +3,8 @@
 
 **Welcome SeavenD Page**
 
-Here are some techical about *motor* and *control*
+Here are some techical material about *motor control of IPM&ASM*.
+any question you can get me from:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
