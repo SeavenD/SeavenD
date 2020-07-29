@@ -5,7 +5,12 @@
 
 Here are some techical material about *motor control of IPM&ASM*.
 any question you can get me from:
-[SeavenD的Markdown库](https:://github.com/SeavenD/books)
+[SeavenD的Markdown库](https:://github.com/SeavenD/books/README)
+
+[baidu](https:://www.baidu.com）
+
+[百度](https:://www.baidu.com)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
