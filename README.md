@@ -11,7 +11,7 @@ any question you can get me from:
 
 [百度](https://www.baidu.com)
 
-[豹子](https://www.baidu.com)
+![豹子](https://github.com/SeavenD/SeavenD/baozi.jpg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
