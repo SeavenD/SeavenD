@@ -9,7 +9,7 @@ any question you can get me from:
 
 [books](https://github.com/SeavenD/books)
 
-[百度](https://www.baidu.com)
+[matlab](https://github.com/SeavenD/matlab-script/blob/master/ffttest.m)
 
 ![豹子](https://github.com/SeavenD/SeavenD/baozi.jpg)
 
