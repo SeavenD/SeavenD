@@ -11,7 +11,7 @@ any question you can get me from:
 
 [matlab](https://github.com/SeavenD/matlab-script/blob/master/ffttest.m)
 
-![豹子](https://github.com/SeavenD/SeavenD/baozi.jpg)
+![豹子](https://github.com/SeavenD/SeavenD/dd.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
